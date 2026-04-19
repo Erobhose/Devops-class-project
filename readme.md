@@ -1,0 +1,1 @@
+This project is a beginner-friendly introduction to DevOps concepts. It demonstrates basic concepts such as version control and CI/CD using a simple HTML page. The goal is to understand how code is managed, tracked, and delivered using modern DevOps practices and tools.
